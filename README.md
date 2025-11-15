@@ -1,6 +1,5 @@
 # customer-purchase-intent
 A machine learning project that predicts online customer purchase intent using a 1-Nearest Neighbor (kNN) classifier.
-This is the complete content for the `README.md` file for your **Online Shopping Purchase Prediction** project, based on the project specification you provided.
 
 -----
 
